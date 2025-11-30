@@ -1,5 +1,6 @@
 ﻿# ClipTool Project
 
-gonna upload the 
+gonna upload the clipper
+
 
 
